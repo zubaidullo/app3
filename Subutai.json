@@ -34,7 +34,7 @@
     "groups": [
       {
         "name": "web-group",
-        "hostnames": [ "web-apache" ]
+        "hostnames": [ "m" ]
       }
     ]
   },
